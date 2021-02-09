@@ -1,0 +1,35 @@
+header
+{ 
+    font-weight: bold;
+    text-align: center;
+    
+}
+img
+{
+    width: 200px;
+    border-style:solid;
+}
+
+a:link
+{
+   color:red
+}
+a:visited
+{
+  color:hotpink
+}
+
+
+*
+{
+    background:yellow  ;
+    font-family: cursive;
+    
+}
+p
+{
+    color: blueviolet;
+
+}
+
+
